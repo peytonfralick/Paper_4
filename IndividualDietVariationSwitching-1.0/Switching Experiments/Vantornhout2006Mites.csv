@@ -1,0 +1,13 @@
+﻿Experiment,RelativeDensity,Proportion,StandardError
+Instars,0.33,0.67,0.09
+Instars,0.5,0.84,0.05
+Instars,0.66,0.6,0.07
+FvT,0.33,0.2,0.04
+FvT,0.5,0.2,0.03
+FvT,0.66,0.416,0.065
+FvTeggs,0.33,0.3,0.067
+FvTeggs,0.5,0.356,0.064
+FvTeggs,0.66,0.375,0.055
+TvT,0.33,0.64,0.07
+TvT,0.5,0.466,0.109
+TvT,0.66,0.77,0.08
